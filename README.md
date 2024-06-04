@@ -165,7 +165,3 @@
 <a href="www.linkedin.com/in/ebrahim-ayman-432a38247" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="discordapp.com/users/hemax10" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a> 
 </p>
-
-<!--Snake Graph-->
-<div id="user-content-toc"><ul align="center"><summary><h3 style="display: inline-block">Watch a 🐍 Snake Eating my Contributions Graph</h3></summary></ul></div>
-<p align = "center"><img src = "https://github.com/HemaX10/HemaX10/blob/main/grid-snake.svg?" alt = "Snake Game"/></p>
