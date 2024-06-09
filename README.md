@@ -23,9 +23,9 @@
 
 - 💬  Dive into  **`Data Analytics`** **&** **`Business Intellegence`** intel with me.
 
-- 📫 Unlock boundless possibilities at <a href="mailto:ebrahimaymenzaki55@gmail.com" target="_blank">`zyadwael366@gmail.com`</a>
+- 📫 Unlock boundless possibilities at <a href="mailto:ebrahimaymenzaki55@gmail.com" target="_blank">`ebrahimaymenzaki55@gmail.com`</a>
 
-- 📄 Experience <a href= "https://docs.google.com/document/d/1Ltb0jCiPWnzEqq-5S2j-1yMyYA2XZRls/edit?usp=drive_link&ouid=108498831972120459668&rtpof=true&sd=true" target="blank">`resume`</a> that speaks volumes.
+- 📄 Experience <a href= "[https://docs.google.com/document/d/1Ltb0jCiPWnzEqq-5S2j-1yMyYA2XZRls/edit?usp=drive_link&ouid=108498831972120459668&rtpof=true&sd=true](https://docs.google.com/document/d/1NVeweKeHdHMVbQyRytMg2Q9CZKj-YaYZ/edit?usp=drive_link&ouid=108498831972120459668&rtpof=true&sd=true)" target="blank">`resume`</a> that speaks volumes.
   
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
   
